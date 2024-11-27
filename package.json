@@ -12,7 +12,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.1"
+    "caesar-salad": "^2.1.0",
+    "express": "^4.21.1",
+    "vigenere-cipher": "^1.0.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.7"
